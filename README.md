@@ -3,7 +3,8 @@
 Tugas praktikum Pertemuan 2 - Pemrograman Mobile.
 
 ## 📸 Screenshots
-![Preview Aplikasi](link_ke_foto_lo.png)
+<img width="1899" height="911" alt="image" src="https://github.com/user-attachments/assets/3484b142-e656-4ea7-a8cf-0042b3ceca43" />
+
 
 ## 🛠️ Tech Stack
 - **Framework:** React Native (Expo SDK 50)
