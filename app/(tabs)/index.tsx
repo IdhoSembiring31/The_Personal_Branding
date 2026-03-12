@@ -47,6 +47,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     padding: 20,
+    backgroundcolor:"#000000"
     
   },
   profilePic: {
